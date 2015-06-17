@@ -21,7 +21,10 @@
   },
   "dependencies": {
     "annotation-parser": "^2.5.2",
+    "annotations": "^0.1.337",
     "async": "^1.2.1",
+    "conga-annotations": "^0.1.8",
+    "glob": "^5.0.10",
     "lodash": "^3.9.3"
   },
   "sails": {
