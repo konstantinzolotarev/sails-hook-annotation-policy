@@ -1,0 +1,17 @@
+{
+  "name": "sails-hook-annotation-policy",
+  "version": "0.1.0",
+  "description": "Add policy annotation support into Sails.js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sails",
+    "sails.js",
+    "annotation",
+    "policy"
+  ],
+  "author": "Konstantin Zolotarev <konstantin.zolotarev@gmail.com>",
+  "license": "MIT"
+}
