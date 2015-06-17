@@ -2,11 +2,8 @@
 
 module.exports = function(sails) {
 
-    return {
-        defaults: {
+  return {
 
-        },
-
-        initialize: require('../lib/initialize')(sails)
-    };
+    initialize: require('./lib/initialize')(sails)
+  };
 };

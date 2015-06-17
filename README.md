@@ -1,0 +1,2 @@
+## Sails hook annotation policy
+
