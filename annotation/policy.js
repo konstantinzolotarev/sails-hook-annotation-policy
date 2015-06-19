@@ -1,5 +1,4 @@
-// my-constructor-annotation.js
-// ----------------------------
+'use strict';
 
 var Annotation = require('conga-annotations').Annotation;
 
