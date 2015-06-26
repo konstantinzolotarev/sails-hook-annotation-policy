@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-annotation-policy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Add policy annotation support into Sails.js framework",
   "main": "index.js",
   "scripts": {
