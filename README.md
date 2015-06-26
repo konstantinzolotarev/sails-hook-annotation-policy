@@ -1,5 +1,8 @@
 ## Sails hook annotation policy
 
+# This hook wouldn't supported more. All functionality moved here: [sails-hook-annotations](https://github.com/konstantinzolotarev/sails-hook-annotations).
+# But current version is fully working.
+
 This hook allow developers to define Policies for actions using annotations.
 
 For this you could use `@Policy()` annotation. **It works only with double quotes!**
